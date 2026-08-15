@@ -334,10 +334,20 @@
   resolved "https://registry.npmjs.org/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.62.4.tgz"
   integrity sha512-W69hukhZ3KKNRCaMIEzKvcFye42hh0FE1+YoYaf5+Ikacuftoco6yO/xouz0hc5d5W/s3yBro5jRiuEE/Q5vUw==
 
+"@rollup/rollup-linux-x64-musl@4.62.4":
+  version "4.62.4"
+  resolved "https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.62.4.tgz"
+  integrity sha512-qiXbGG2jkjXhzXpsFZSR2Xpb8DN/UaxYsbb/STbuR/6fpaDgRmmaq1B/LmtF2wQFOFOSsK2jdE0RZ3a0zHn4QA==
+
 "@swc/core-linux-x64-gnu@1.16.0":
   version "1.16.0"
   resolved "https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.16.0.tgz"
   integrity sha512-DWVBc3QnpsSgKoq8N4rmZeZa5r/XrHdLkITsExN/tvTdqPtAPDPt+Ysy33OfgBlyN8lNe4xwsXWe6DXlRkJeRQ==
+
+"@swc/core-linux-x64-musl@1.16.0":
+  version "1.16.0"
+  resolved "https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.16.0.tgz"
+  integrity sha512-6XCgDSc1HPf/5dpjvABhKHICiBcsuZyW3hQMkn8sxel0TqprkJGp+H4iaBYIUTPixhrBub2hBPtfjcZLE6yL3w==
 
 "@swc/core@^1.12.11":
   version "1.16.0"
@@ -396,6 +406,11 @@
   version "4.3.3"
   resolved "https://registry.npmjs.org/@tailwindcss/oxide-linux-x64-gnu/-/oxide-linux-x64-gnu-4.3.3.tgz"
   integrity sha512-tx7us1muwOKAKWao2v/GaafFeQboE6aj88vC6ziN2NCGcRm8gWUhwjzg+YdVB1e4boAtdtma4L43onunI6NS4w==
+
+"@tailwindcss/oxide-linux-x64-musl@4.3.3":
+  version "4.3.3"
+  resolved "https://registry.npmjs.org/@tailwindcss/oxide-linux-x64-musl/-/oxide-linux-x64-musl-4.3.3.tgz"
+  integrity sha512-SJxX60smvHgasZoBy11dX6YRjXJFovwWBoedhbQPOBzgFWBHGB+TVPWB9BxzR7TTxU8FQZAI2AyiNCMzFm8Img==
 
 "@tailwindcss/oxide@4.3.3":
   version "4.3.3"
@@ -1160,6 +1175,11 @@ lightningcss-linux-x64-gnu@1.32.0:
   version "1.32.0"
   resolved "https://registry.npmjs.org/lightningcss-linux-x64-gnu/-/lightningcss-linux-x64-gnu-1.32.0.tgz"
   integrity sha512-V7Qr52IhZmdKPVr+Vtw8o+WLsQJYCTd8loIfpDaMRWGUZfBOYEJeyJIkqGIDMZPwPx24pUMfwSxxI8phr/MbOA==
+
+lightningcss-linux-x64-musl@1.32.0:
+  version "1.32.0"
+  resolved "https://registry.npmjs.org/lightningcss-linux-x64-musl/-/lightningcss-linux-x64-musl-1.32.0.tgz"
+  integrity sha512-bYcLp+Vb0awsiXg/80uCRezCYHNg1/l3mt0gzHnWV9XP1W5sKa5/TCdGWaR/zBM2PeF/HbsQv/j2URNOiVuxWg==
 
 lightningcss@^1.21.0, lightningcss@1.32.0:
   version "1.32.0"
